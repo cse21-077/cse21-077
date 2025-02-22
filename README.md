@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Heyy
 👋 Hey there! I'm a Software Engineering student passionate about building AI models, Systems, and Fullstack Apps. I enjoy tackling challenging and complex projects, from web apps to cross-platform applications. Always learning, always building. 🚀<br><br>📌 Interests: AI, Full-Stack Development, Cross-Platform Apps<br>🔧 Common Stack: Java, Python, Kotlin, JavaScript, Next Js, TensorFlow, Node.js<br>💡 Let's Build Something Awesome!
 
 
